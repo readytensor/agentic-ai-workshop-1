@@ -30,4 +30,3 @@ env.bak/
 venv.bak/
 
 .DS_Store
-chroma_db/
