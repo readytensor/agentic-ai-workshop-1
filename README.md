@@ -1,7 +1,5 @@
 # Agentic AI Workshop 1: Building AI Apps with RAG and LLM Workflows
 
-## Workshop Summary
-
 This hands-on 1-hour workshop introduces participants to building intelligent AI applications using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Attendees will progress from basic LLM API calls to creating a fully functional RAG-based chatbot that can answer questions using custom documents. The workshop emphasizes practical coding with immediate results, using popular tools like OpenAI's API, ChromaDB, and Gradio for interactive interfaces.
 
 **Target Audience:** Developers and technical professionals with basic Python knowledge who want to understand and build agentic AI applications.
@@ -15,9 +13,9 @@ This hands-on 1-hour workshop introduces participants to building intelligent AI
 
 ---
 
-## Workshop Outline
+# Workshop Outline
 
-### **Part 1: Introduction (10-12 minutes)**
+## **Part 1: Introduction (10-12 minutes)**
 
 **Slides covering:**
 
@@ -29,9 +27,9 @@ This hands-on 1-hour workshop introduces participants to building intelligent AI
 
 ---
 
-### **Part 2: Coding Session - Building Blocks (40-45 minutes)**
+## **Part 2: Coding Session - Building Blocks (40-45 minutes)**
 
-#### **Notebook 1: Basic LLM API Interactions (15-18 minutes)**
+### **Notebook 1: Basic LLM API Interactions (15-18 minutes)**
 
 1. Basic API call to an LLM - text in, text out
 2. Image generation example - text to image
@@ -42,9 +40,7 @@ This hands-on 1-hour workshop introduces participants to building intelligent AI
 
 **Technologies:** OpenAI Python SDK, Gradio
 
----
-
-#### **Notebook 2: Embeddings and Similarity Search (8-10 minutes)**
+### **Notebook 2: Embeddings and Similarity Search (8-10 minutes)**
 
 1. Generate embeddings for different documents
 2. Calculate cosine similarity between documents
@@ -52,9 +48,7 @@ This hands-on 1-hour workshop introduces participants to building intelligent AI
 
 **Technologies:** OpenAI Embeddings API
 
----
-
-#### **Notebook 3: RAG-Based Chatbot with Vector DB (15-18 minutes)**
+### **Notebook 3: RAG-Based Chatbot with Vector DB (15-18 minutes)**
 
 1. Ingest documents into ChromaDB (using 5 Ready Tensor publications)
 2. Implement semantic document retrieval
@@ -65,7 +59,7 @@ This hands-on 1-hour workshop introduces participants to building intelligent AI
 
 ---
 
-### **Part 3: Wrap-Up (5 minutes)**
+## **Part 3: Wrap-Up (5 minutes)**
 
 **Slides covering:**
 
@@ -76,7 +70,7 @@ This hands-on 1-hour workshop introduces participants to building intelligent AI
 
 ---
 
-## Technical Stack
+# Technical Stack
 
 - **LLM Provider:** OpenAI (GPT-4/GPT-3.5)
 - **Embeddings:** OpenAI `text-embedding-3-small`
@@ -87,7 +81,7 @@ This hands-on 1-hour workshop introduces participants to building intelligent AI
 
 ---
 
-## Pre-Workshop Requirements
+# Pre-Workshop Requirements
 
 Attendees should:
 
