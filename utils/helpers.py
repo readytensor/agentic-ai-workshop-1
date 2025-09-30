@@ -5,8 +5,6 @@ from pathlib import Path
 
 ENV_FPATH = Path(__file__).parent.parent.parent.parent / ".env"
 
-print(ENV_FPATH)
-
 
 def load_env(api_key_type="OPENAI_API_KEY") -> None:
     """Loads environment variables from a .env file and checks for required keys.
