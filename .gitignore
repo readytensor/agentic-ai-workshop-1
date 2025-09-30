@@ -13,6 +13,13 @@ __pycache__/
 # API keys and secrets
 *.env
 
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Jupyter Notebook outputs (optional - uncomment if you want to ignore all outputs)
+# *.ipynb
+
 # Environments
 .venv
 env/
