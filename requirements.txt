@@ -6,3 +6,5 @@ pandas
 tiktoken
 notebook
 python-dotenv
+ipywidgets
+matplotlib
