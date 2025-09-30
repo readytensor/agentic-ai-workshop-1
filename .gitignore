@@ -30,10 +30,4 @@ env.bak/
 venv.bak/
 
 .DS_Store
-<<<<<<< HEAD
-
-
-notebooks/*.py
-=======
 chroma_db/
->>>>>>> 5dced6dbb75586943fd7154bb2b0ebc3ee10c6c9
