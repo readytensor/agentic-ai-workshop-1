@@ -59,7 +59,7 @@ This hands-on 1-hour workshop introduces participants to building intelligent AI
 1. Ingest documents into ChromaDB (using 5 Ready Tensor publications)
 2. Implement semantic document retrieval
 3. Build a complete RAG pipeline
-4. Deploy in a Gradio Chat UI
+4. Implement in a Gradio Chat UI with RAG
 
 **Technologies:** ChromaDB, OpenAI API, Gradio
 
