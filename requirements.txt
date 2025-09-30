@@ -1,6 +1,7 @@
 openai>=1.0.0
 gradio>=4.0.0
-chromadb>=0.4.0
+chromadb~=1.0.12
+chroma-hnswlib~=0.7.6
 numpy
 pandas
 tiktoken
