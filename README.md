@@ -129,21 +129,22 @@ pip install -r requirements.txt
 
 ### 4. Set your OpenAI API key
 
-You need an API key with access to GPT-4o models. Set it as an environment variable:
+You need an API key with access to GPT-4o models. Create a `.env` file in the project root:
 
-**macOS / Linux:**
+**Create `.env` file:**
 
 ```bash
-export OPENAI_API_KEY="your_api_key_here"
+# Create .env file in the project root
+touch .env
 ```
 
-**Windows (Powershell):**
+**Add your API key to the `.env` file:**
 
-```powershell
-setx OPENAI_API_KEY "your_api_key_here"
+```bash
+OPENAI_API_KEY=your_api_key_here
 ```
 
-Restart your terminal (or run `refreshenv` in Powershell) so the variable is available.
+**Important:** Never commit the `.env` file to version control. It's already included in `.gitignore`.
 
 ### 5. Launch Jupyter Notebook
 
