@@ -1,6 +1,8 @@
 
 tmp/
 
+outputs/
+
 temp.json
 
 # Byte-compiled / optimized / DLL files
@@ -28,3 +30,6 @@ env.bak/
 venv.bak/
 
 .DS_Store
+
+
+notebooks/*.py
